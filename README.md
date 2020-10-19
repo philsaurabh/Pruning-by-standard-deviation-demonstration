@@ -1,5 +1,5 @@
 # Pruning-by-standard-deviation
-It is a part of the paper'Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding'  by Song Han, Huizi Mao, William J. Dally
+It is a part of the paper 'Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding'  by Song Han, Huizi Mao, William J. Dally
 
 ## Requirements
 Following packages are required for this project
